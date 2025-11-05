@@ -1,0 +1,20 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS specific files
+.DS_Store
+
+# Trained models (these are large binary files)
+*.pkl
+model.pkl
+output.pkl
+
+# Data & Output files
+# (Your code should download the data or explain where to get it)
+*.csv
+input.csv
+input copy.csv
+output.csv
+data-compare.csv.numbers
+
